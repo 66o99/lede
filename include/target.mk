@@ -44,7 +44,7 @@ DEFAULT_PACKAGES.router:=\
 	dnsmasq-full firewall iptables ppp ppp-mod-pppoe \
 	coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw kmod-tun \
 	iptables-mod-tproxy iptables-mod-extra ipset ip-full default-settings luci luci-newapi \
-	ddns-scripts_aliyun ddns-scripts_dnspod curl ca-certificates
+	ddns-scripts_aliyun ddns-scripts_dnspod curl ca-certificates luci-app-arpbind
         
 	
 #	dnsmasq-full firewall iptables ppp ppp-mod-pppoe \
