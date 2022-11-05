@@ -5,7 +5,7 @@
 
 / {
 	compatible = "phicomm,k2p", "mediatek,mt7621-soc";
-	model = "JCG-AC836PRO";
+	model = "K2P-836P-M3-Y2-MT7615D.ALL";
 
 	aliases {
 		led-boot = &led_blue;
